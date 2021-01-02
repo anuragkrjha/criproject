@@ -1,38 +1,148 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+*{
+  margin:0px;
+  
+}.App {
+  height:10px;
+  background-color:rgb(245, 242, 242);
+  
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  text-align:center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: column;
+  background-color: rgb(229, 223, 189);
+
+}
+h{
+  font-weight: bold;
+}
+.nap {
+  font-weight: bold;
+}
+.App-logo {
+  width:350px;
+  height: 100px;
+  margin-left:45%;
+  background-color:rgb(229, 223, 189);
+  
+}
+.gap{
+  height:100px;
+  background-color:rgb(229, 223, 189);
+
+}
+.left1{
+  float: left;
+  height:700px;
+  width: 350px;
+  max-width:100%;
+  
+  
+}
+.left {
+  float: left;
+  height:600px;
+  width: 350px;
+  margin-top:70px;
+  max-width: 100%;
+}
+.right {
+  margin-top: 100px;
+ 
+  height:650px;
+  background-color:rgb(229, 223, 189);
+}
+.pic {
+ margin-left:100px;
+  width:800px;
+  max-width:70%;
+  min-width:40%;
+  
+}
+.you {
+  width: 1500px;
+  height:300px;
+  max-width:100%;
+  max-height: 100%;
+}
+.paget {
+  background-color:rgb(229, 223, 189);
+  height:500px;
+  
+  
+}
+
+.line{
+  text-align:center;
+  height:40px;
+  font-weight: bold;
+}
+hr.solid{
+  border-top: 4px solid red;
+}
+.last {
+  background-color: red;
+  height: 100px;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  
+}
+.lat1 {
   color: white;
+  display: inline-flex;
+  text-decoration: none;
+  justify-content: space-between;
 }
-
-.App-link {
-  color: #61dafb;
+.last2 {
+ display: inline-flex;
+  text-decoration: none;
+  justify-content: space-between;
+  color:white;
+  font-size: 20px ;
+  margin-left:140px;
+ 
 }
+.last2 a {
+  color: white;
+  display: inline-flex;
+  text-decoration: none;
+  justify-content: space-between;
+}
+  
+.lp {
+  height:105px;
+  width: 100%;
+}
+.vl {
+  border-left: 1.5px solid red;
+  padding: 2px;
+  height: 20px;
+  
+  
+  
+}
+.fix {
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  width:1020;
+  max-width: 100%;
+  
+}
+.pink{
+  height:40px;
+  background-color:rgb(229, 223, 189);
+  max-width: 100%;
+}
+@media only screen and (max-width:767px)
+{
+  .fix .pic .paget {width:100%;}
+  .last {width: 100%; margin:0; height: 950%; display:flex; justify-content: center;} 
+  .last2 {margin:0px;display:inline; width:50%;  font-size:15px;}
+  .paget {height:600px; margin-top: 290px;}
+  .App-header {width:62%;}
+  
 }
