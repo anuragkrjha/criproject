@@ -54,8 +54,8 @@ function App() {
     <div className="last">
       <ul className="lat1">
         <li className = "last2"><FontAwesomeIcon icon={faPhoneSquareAlt} /><a>toll free:180-2000-1234</a></li>
-        <li className = "last2"><FontAwesomeIcon icon={faFacebook} /><a href="www.facebook.com/cri.pumps">www.faceBook.com/Crigroups</a></li>
-        <li className ="last2"><FontAwesomeIcon icon={faGlobe} /><a href="www.crigroups.com">www.crigroups.com</a></li>
+        <li className = "last2"><FontAwesomeIcon icon={faFacebook} /><a >www.faceBook.com/Crigroups</a></li>
+        <li className ="last2"><FontAwesomeIcon icon={faGlobe} /><a>www.crigroups.com</a></li>
         
 
       </ul>
