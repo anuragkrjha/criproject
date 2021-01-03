@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/criproject/static/css/main.1a601cb0.chunk.css",
+    "main.js": "/criproject/static/js/main.f6a2c60b.chunk.js",
+    "main.js.map": "/criproject/static/js/main.f6a2c60b.chunk.js.map",
+    "runtime-main.js": "/criproject/static/js/runtime-main.887ff80b.js",
+    "runtime-main.js.map": "/criproject/static/js/runtime-main.887ff80b.js.map",
+    "static/js/2.9ac665be.chunk.js": "/criproject/static/js/2.9ac665be.chunk.js",
+    "static/js/2.9ac665be.chunk.js.map": "/criproject/static/js/2.9ac665be.chunk.js.map",
+    "static/js/3.d26c9383.chunk.js": "/criproject/static/js/3.d26c9383.chunk.js",
+    "static/js/3.d26c9383.chunk.js.map": "/criproject/static/js/3.d26c9383.chunk.js.map",
+    "index.html": "/criproject/index.html",
+    "static/css/main.1a601cb0.chunk.css.map": "/criproject/static/css/main.1a601cb0.chunk.css.map",
+    "static/js/2.9ac665be.chunk.js.LICENSE.txt": "/criproject/static/js/2.9ac665be.chunk.js.LICENSE.txt",
+    "static/media/logo.c3067270.png": "/criproject/static/media/logo.c3067270.png",
+    "static/media/pic.8563a9b8.png": "/criproject/static/media/pic.8563a9b8.png",
+    "static/media/pipe.5d60ad10.png": "/criproject/static/media/pipe.5d60ad10.png",
+    "static/media/prize.034f1e05.png": "/criproject/static/media/prize.034f1e05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887ff80b.js",
+    "static/js/2.9ac665be.chunk.js",
+    "static/css/main.1a601cb0.chunk.css",
+    "static/js/main.f6a2c60b.chunk.js"
+  ]
+}
